@@ -1,0 +1,5 @@
+change this file to .py and get your authtoken from huggingface.co -> settings -> generate tokens
+
+authtoken = "YOUR TOKEN HERE"
+
+
